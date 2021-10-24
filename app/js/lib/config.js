@@ -18,10 +18,10 @@ Config = window.Config || {}
 */
 
 Config.App = {
-  id: 2496,
-  hash: '8da85b0d5bfe62527e5b244c209159c3',
+  id: 2526155,
+  hash: '1c5ddd6bb63dafb5515f26a882337a8a',
   version: '0.7.0',
-  domains: ['web.telegram.org', 'zhukov.github.io']
+  domains: ['web.telegram.org', 'tg.arnext.xyz']
 }
 
 Config.Modes = {
