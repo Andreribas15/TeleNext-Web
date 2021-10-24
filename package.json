@@ -1,12 +1,12 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
+  "name": "TeleNext",
+  "description": "Telegram Web App.\nMore info & source code here: https://github.com/Andreribas15/webogram",
   "version": "0.7.0",
   "main": "app/index.html",
   "single-instance": true,
   "dom_storage_quota": 40,
   "window": {
-    "title": "Telegram",
+    "title": "TeleNext",
     "icon": "app/img/icons/icon128.png",
     "toolbar": false,
     "frame": true,
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhukov/webogram.git"
+    "url": "https://github.com/Andreribas15/webogram.git"
   },
-  "author": "zhukov",
+  "author": "André Ribas",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/zhukov/webogram/issues"
+    "url": "https://github.com/Andreribas15/webogram/issues"
   },
   "locales": [
     "en-us",
@@ -42,7 +42,7 @@
     "nl-nl",
     "pt-br"
   ],
-  "homepage": "http://zhukov.github.io/webogram",
+  "homepage": "http://tg.arnext.xyz/",
   "devDependencies": {
     "del": "^4.1.1",
     "gulp": "^4.0.2",
